@@ -1,6 +1,5 @@
 import os  # for files
 import re  # python Regular Expressions
-import json  # json
 
 # get user input about what file to search in:
 filename = input(
